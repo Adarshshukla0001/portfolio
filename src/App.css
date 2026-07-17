@@ -1,0 +1,47 @@
+#root {
+  min-height: 100vh;
+}
+
+a, button {
+  -webkit-tap-highlight-color: transparent;
+}
+
+:focus-visible {
+  outline: 2px solid #a78bfa;
+  outline-offset: 4px;
+}
+
+/* Legacy decorative elements are hidden so the circular portrait stays clean. */
+#home .absolute.-right-3,
+#home p.absolute.-bottom-2 {
+  display: none;
+}
+
+
+*,
+*::before,
+*::after{
+  cursor:none !important;
+}
+
+html,
+body{
+  cursor:none !important;
+}
+
+a,
+button,
+input,
+textarea,
+select,
+label{
+  cursor:none !important;
+}
+
+@media (pointer:coarse){
+  *,
+  *::before,
+  *::after{
+      cursor:auto !important;
+  }
+}
