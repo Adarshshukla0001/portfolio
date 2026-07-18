@@ -4,7 +4,7 @@ export const personal = {
   tagline: "I build fast, accessible web experiences with modern tools.",
   email: "adarshshuklaup72@gmail.com",
   location: "Pratapgarh, Uttar pradesh",
-  bio: "Hi, I'm Adarsh Shukla.I am from Pratapgarh, Uttar Pradesh, and I am currently pursuing a Bachelor of Technology (B.Tech) in Computer Science & Engineering.Before my B.Tech, I completed my Diploma in Computer Science & Engineering from Feroze Gandhi Polytechnic, Raebareli, where I developed a strong foundation in programming and software development.",
+  bio: "My name is Adarsh Shukla, and I am from Pratapgarh, Uttar Pradesh. I have hands-on experience in c+, python, Java, django, SpringBoot, SQL, and MongoDB. I am a self-motivated, quick learner with a strong passion for coding, and I aspire to build my career as a Software Developer.",
   resumeUrl: "#",
   social: {
     github: "https://github.com/Adarshshukla0001",
@@ -78,7 +78,7 @@ export const projects = [
         tags: ["React","Vite","Tailwind CSS","JavaScript","Framer Motion","EmailJS"],
         image: "/assets/portfolio.png",
         liveUrl: "#",
-        githubUrl: "#",
+        githubUrl: "https://github.com/Adarshshukla0001",
         featured: true,
       },
 {
@@ -97,7 +97,7 @@ export const projects = [
     ],
     image: "/assets/charchadesk.png",
     liveUrl: "#",
-    githubUrl: "#",
+    githubUrl: "https://github.com/Adarshshukla0001",
     featured: true,
   },
 
@@ -115,9 +115,9 @@ export const projects = [
       "JWT",
       "REST API"
     ],
-    image: "/assets/hero.png",
+    image: "/assets/incubify.png",
     liveUrl: "#",
-    githubUrl: "#",
+    githubUrl: "https://github.com/Adarshshukla0001",
     featured: true,
   },
 
@@ -136,7 +136,7 @@ export const projects = [
     ],
     image: "/assets/finora.png",
     liveUrl: "#",
-    githubUrl: "#",
+    githubUrl: "https://github.com/Adarshshukla0001",
     featured: true,
   },
       {
@@ -153,7 +153,7 @@ export const projects = [
     ],
     image: "/assets/sms.png",
     liveUrl: "#",
-    githubUrl: "#",
+    githubUrl: "https://github.com/Adarshshukla0001",
     featured: false,
   },
       {
@@ -170,7 +170,7 @@ export const projects = [
     ],
     image: "/assets/hrms.png",
     liveUrl: "#",
-    githubUrl: "#",
+    githubUrl: "https://github.com/Adarshshukla0001",
     featured: false,
   },
     ]

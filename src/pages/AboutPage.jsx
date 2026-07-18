@@ -20,48 +20,50 @@ export default function AboutPage() {
           <div className="mt-12 max-w-4xl mx-auto space-y-6">
 
             <p className="text-lg leading-relaxed text-slate-400">
-              Hi, I'm Adarsh Shukla.I am from Pratapgarh, Uttar Pradesh, and I am currently pursuing a Bachelor 
-              of Technology (B.Tech) in Computer Science & Engineering.
+              Hi, My name is Adarsh Shukla. I am from Pratapgarh, Uttar Pradesh, which is my hometown. For the past two years,
+              I have been living in Noida to pursue my higher education.
               <br/><br/>
-              Before my B.Tech, I completed my Diploma in Computer Science & Engineering from Feroze Gandhi Polytechnic,
-               Raebareli, where I developed a strong foundation in programming and software development.
-              <br/>
-              To gain practical industry experience, I completed a Summer Internship at Softpro India Pvt. Ltd. as a Django Developer,
-               where I worked on building dynamic web applications and gained hands-on experience with Django and modern web 
-               development practices.
-              <br/>
-              <br/>
-              I am passionate about Full Stack Development and enjoy building scalable, responsive, and user-friendly web applications.
-               My technical expertise includes Java, Spring Boot, React, Vite, Tailwind CSS, Django, Python, MongoDB Atlas, 
-               PostgreSQL,SQLite, REST APIs, and Git/GitHub.
-              <br/>
-              <br/>
-              I have developed several projects, including a real-time chat application (CharchaDesk), 
-              a personal finance tracker (Finora), an HRMS, a College Management System, an Intelligent 
-              Incubation Discovery Platform (Incubify), and my personal developer portfolio.
-              <br/>
-              <br/>
-              I enjoy solving real-world problems through technology, continuously learning new tools and frameworks, 
-              and improving my problem-solving skills by working on projects and coding challenges.
-              <br/>
-              <br/>
-              My goal is to become a skilled Software Development Engineer (SDE) and contribute to building innovative,
-               high-quality software solutions that make a meaningful impact.
-              <br/>
-              <br/>
-
-              My development journey focuses on frontend and backend 
-              technologies where I work with React.js, Tailwind CSS, Java,
-              Spring Boot, REST APIs, and databases. I believe in writing 
-              clean, maintainable code and building applications that provide 
-              a smooth user experience.
-
+              Coming to my education, I completed my Diploma in Computer Science and Engineering from Feroze Gandhi Polytechnic,
+               Raebareli. Currently, I am pursuing my Bachelor of Technology (B.Tech) in Computer Science and Engineering
+              from Noida Institute of Engineering and Technology (NIET), Greater Noida.
               <br/><br/>
-
-              Apart from development, I actively practice Data Structures 
-              and Algorithms to improve my problem-solving abilities. 
-              I always look forward to learning new technologies and 
-              applying my knowledge through practical projects.
+              During my academic journey, I completed my Summer Internship at Softpro India Pvt. Ltd. as a Full-Stack Developer.
+               During the internship, I worked on real-world web applications and was honored with the Best Performance 
+               Award for my dedication and performance.
+              <br/>
+              <br/>
+              Coming to my technical skills, I have hands-on experience with Java, Python, C++, SQL, MySQL, PostgreSQL, 
+              MongoDB, SQLite, Django, Spring Boot, HTML, CSS, JavaScript, Bootstrap, React, and Tailwind CSS.
+              <br/>
+              <br/>
+              Talking about my projects, I have developed several applications, including a Portfolio Website, 
+              CharchaDesk (Smart Real-Time Chat Application), Incubify(Incubation Discovery Platform), HRMS(Human Resource Management System), School Management System, and Issue 
+              Management System. Through these projects, I enhanced my full-stack skills and 
+              improve my problem-solving ability.
+              <br/>
+              <br/>
+              Apart from academics, I served as Class Ambassador of the Google Developer Groups at NIET during my 
+              second year, where I actively participated in technical events and community activities.
+              <br/>
+              <br/>
+              Coming to my family background, we are a family of five members. My father is a farmer, my mother is a 
+              homemaker, and I have two elder sisters. My family has always encouraged me to learn and grow in my career.
+              <br/>
+              <br/>
+              My strengths are that I am a self-motivated, adaptable, and quick learner. I have a strong interest in coding,
+               and once I start working on a task, I stay focused until I complete it. I also enjoy learning new technologies
+                and working collaboratively with others.
+              <br/><br/>
+              Talking about my weaknesses, I sometimes spend extra time trying to make my work perfect, which can affect my 
+              time management. Another weakness is that I occasionally become so focused on my work that I neglect my
+               health, such as eating meals on time or maintaining a proper routine. However, I am actively improving 
+               my planning and maintaining a healthier work-life balance.
+               <br/><br/>
+               My short-term goal is to join a reputed organization where I can enhance my technical skills,
+                gain industry experience, and contribute to meaningful projects. My long-term goal is to become a skilled 
+                Software Engineer who continuously learns new technologies and takes on greater responsibilities.
+                <br/><br/>
+                That's all about me.
             </p>
 
           </div>
