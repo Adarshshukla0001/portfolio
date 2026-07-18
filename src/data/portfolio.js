@@ -78,7 +78,7 @@ export const projects = [
         tags: ["React","Vite","Tailwind CSS","JavaScript","Framer Motion","EmailJS"],
         image: "/assets/portfolio.png",
         liveUrl: "#",
-        githubUrl: "https://github.com/Adarshshukla0001",
+        githubUrl: "https://github.com/Adarshshukla0001/portfolio",
         featured: true,
       },
 {
@@ -97,7 +97,7 @@ export const projects = [
     ],
     image: "/assets/charchadesk.png",
     liveUrl: "#",
-    githubUrl: "https://github.com/Adarshshukla0001",
+    githubUrl: "https://github.com/Adarshshukla0001/charchadesk",
     featured: true,
   },
 
@@ -136,7 +136,7 @@ export const projects = [
     ],
     image: "/assets/finora.png",
     liveUrl: "#",
-    githubUrl: "https://github.com/Adarshshukla0001",
+    githubUrl: "https://github.com/Adarshshukla0001/Personal-Finance-tracker",
     featured: true,
   },
       {
@@ -153,7 +153,7 @@ export const projects = [
     ],
     image: "/assets/sms.png",
     liveUrl: "#",
-    githubUrl: "https://github.com/Adarshshukla0001",
+    githubUrl: "https://github.com/Adarshshukla0001/School-Management-System",
     featured: false,
   },
       {
@@ -170,7 +170,7 @@ export const projects = [
     ],
     image: "/assets/hrms.png",
     liveUrl: "#",
-    githubUrl: "https://github.com/Adarshshukla0001",
+    githubUrl: "https://github.com/Adarshshukla0001/HRMS",
     featured: false,
   },
     ]
