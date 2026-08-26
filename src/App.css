@@ -16,32 +16,3 @@ a, button {
 #home p.absolute.-bottom-2 {
   display: none;
 }
-
-
-*,
-*::before,
-*::after{
-  cursor:none !important;
-}
-
-html,
-body{
-  cursor:none !important;
-}
-
-a,
-button,
-input,
-textarea,
-select,
-label{
-  cursor:none !important;
-}
-
-@media (pointer:coarse){
-  *,
-  *::before,
-  *::after{
-      cursor:auto !important;
-  }
-}

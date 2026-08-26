@@ -11,14 +11,12 @@ import ProjectsPage from "./pages/ProjectsPage"
 import ContactPage from "./pages/ContactPage"
 import { personal } from "./data/portfolio"
 import "./App.css"
-import Cursor from "./components/Cursor";
 
 function App() {
   return (
     <BrowserRouter>
       <div className="relative min-h-screen overflow-x-hidden">
         <GlobalBackground />
-        <Cursor />
         <Navbar />
         <Routes>
           <Route path="/" element={<HomePage />} />
